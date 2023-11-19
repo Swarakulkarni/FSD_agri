@@ -68,3 +68,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+---
+**NOTE**
+
+There are three large files to be placed in the streamlit folder which can be found in the following drive link:
+
+https://drive.google.com/drive/folders/13p_6QXmpymIQzfJkEXl8HMSjcxBv7K_U?usp=sharing
+
+---
